@@ -2,12 +2,12 @@
 
 “Lutic-S” — прототип автоматической турели для защиты производства от БПЛА. <!-- описание репозитория -->
 <!--Блок информации о репозитории в бейджах-->
+![Static Badge](https://img.shields.io/badge/SANM_Robotics-Lutic--s-blue)
 ![GitHub top language](https://img.shields.io/github/languages/top/ymlIl/Lutic-s)
 ![Static Badge](https://img.shields.io/badge/python-9.6%25-blue)
 ![GitHub](https://img.shields.io/github/license/ymlIl/Lutic-s)
 ![GitHub Repo stars](https://img.shields.io/github/stars/ymlIl/Lutic-s)
 ![GitHub issues](https://img.shields.io/github/issues/ymlIl/Lutic-s)
-![Static Badge](https://img.shields.io/badge/SANM_Robotics-Lutic--s-blue)
 
 ![Logotype](./docs/logo.jpeg)
 
