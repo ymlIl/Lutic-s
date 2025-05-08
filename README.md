@@ -7,3 +7,14 @@
 ![GitHub Repo stars](https://img.shields.io/github/stars/ymlIl/Lutic-s)
 ![GitHub issues](https://img.shields.io/github/issues/ymlIl/Lutic-s)
 ![Static Badge](https://img.shields.io/badge/SANM_Robotics-Lutic--s-blue)
+
+![Logotype](./docs/logo.jpeg)
+
+Цель проекта: создание бюджетного, безопасного и эффективного средства противодействия дронам в зонах повышенной опасности, на промышленных объектах, государственных объектах или частных территориях.
+
+## Документация
+Пользовательскую документацию можно получить по [этой ссылке](./docs/).
+
+## Поддержка
+Если у вас возникли сложности или вопросы по использованию пакета, создайте 
+[обсуждение](https://github.com/ymlIl/Lutic-s/issues/new/choose) в данном репозитории
